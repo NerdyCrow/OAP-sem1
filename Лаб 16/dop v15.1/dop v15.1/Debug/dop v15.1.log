@@ -1,0 +1,4 @@
+﻿  dop v15.1.cpp
+D:\Лаб ОАП\Лаб 16\dop v15.1\dop v15.1\dop v15.1.cpp(15,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Лаб ОАП\Лаб 16\dop v15.1\dop v15.1\dop v15.1.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dop v15.1.vcxproj -> D:\Лаб ОАП\Лаб 16\dop v15.1\Debug\dop v15.1.exe

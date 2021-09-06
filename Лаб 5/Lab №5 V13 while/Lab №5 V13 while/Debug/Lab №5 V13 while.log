@@ -1,0 +1,5 @@
+﻿  while.cpp
+D:\Лаб ОАП\Лаб 5\Lab №5 V13 while\Lab №5 V13 while\while.cpp(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Лаб ОАП\Лаб 5\Lab №5 V13 while\Lab №5 V13 while\while.cpp(5,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\Лаб ОАП\Лаб 5\Lab №5 V13 while\Lab №5 V13 while\while.cpp(15,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab №5 V13 while.vcxproj -> D:\Лаб ОАП\Лаб 5\Lab №5 V13 while\Debug\Lab №5 V13 while.exe

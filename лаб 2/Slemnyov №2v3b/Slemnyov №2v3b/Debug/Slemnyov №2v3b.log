@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Лаб ОАП\лаб 2\Slemnyov №2v3b\Slemnyov №2v3b\main.cpp(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Лаб ОАП\лаб 2\Slemnyov №2v3b\Slemnyov №2v3b\main.cpp(4,17): warning C4305: инициализация: усечение из "double" в "float"
+  Slemnyov №2v3b.vcxproj -> D:\Лаб ОАП\лаб 2\Slemnyov №2v3b\Debug\Slemnyov №2v3b.exe

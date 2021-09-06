@@ -1,0 +1,4 @@
+﻿  Lab №12 dop 2.cpp
+D:\Лаб ОАП\Лаб 12\Lab №12 dop2\Lab №12 dop2\Lab №12 dop 2.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Лаб ОАП\Лаб 12\Lab №12 dop2\Lab №12 dop2\Lab №12 dop 2.cpp(15,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab №12 dop2.vcxproj -> D:\Лаб ОАП\Лаб 12\Lab №12 dop2\Debug\Lab №12 dop2.exe

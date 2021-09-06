@@ -1,0 +1,3 @@
+﻿  v7.2.cpp
+D:\Лаб ОАП\Лаб 15\dop\v7.2\v7.2\v7.2.cpp(46,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  v7.2.vcxproj -> D:\Лаб ОАП\Лаб 15\dop\v7.2\Debug\v7.2.exe

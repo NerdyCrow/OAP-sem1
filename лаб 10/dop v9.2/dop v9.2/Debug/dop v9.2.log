@@ -1,0 +1,4 @@
+﻿  dop v9.2.cpp
+D:\Лаб ОАП\лаб 10\dop v9.2\dop v9.2\dop v9.2.cpp(9,11): warning C4101: maskc: неиспользованная локальная переменная
+D:\Лаб ОАП\лаб 10\dop v9.2\dop v9.2\dop v9.2.cpp(7,15): warning C4101: maska: неиспользованная локальная переменная
+  dop v9.2.vcxproj -> D:\Лаб ОАП\лаб 10\dop v9.2\Debug\dop v9.2.exe

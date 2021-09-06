@@ -1,0 +1,3 @@
+﻿  Lab №14 dop.cpp
+D:\Лаб ОАП\Лаб 14\Dop\Lab №14 dop\Lab №14 dop\Lab №14 dop.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab №14 dop.vcxproj -> D:\Лаб ОАП\Лаб 14\Dop\Lab №14 dop\Debug\Lab №14 dop.exe

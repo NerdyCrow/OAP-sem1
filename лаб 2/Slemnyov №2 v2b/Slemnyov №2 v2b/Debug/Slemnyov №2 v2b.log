@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Лаб ОАП\лаб 2\Slemnyov №2 v2b\Slemnyov №2 v2b\main.cpp(5,15): warning C4305: инициализация: усечение из "double" в "float"
+  Slemnyov №2 v2b.vcxproj -> D:\Лаб ОАП\лаб 2\Slemnyov №2 v2b\Debug\Slemnyov №2 v2b.exe

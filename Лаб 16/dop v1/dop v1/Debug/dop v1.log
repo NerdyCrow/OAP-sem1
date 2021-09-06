@@ -1,0 +1,6 @@
+﻿  dop v1.cpp
+D:\Лаб ОАП\Лаб 16\dop v1\dop v1\dop v1.cpp(48,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Лаб ОАП\Лаб 16\dop v1\dop v1\dop v1.cpp(51,28): warning C4101: fun3: неиспользованная локальная переменная
+D:\Лаб ОАП\Лаб 16\dop v1\dop v1\dop v1.cpp(49,15): warning C4101: a: неиспользованная локальная переменная
+D:\Лаб ОАП\Лаб 16\dop v1\dop v1\dop v1.cpp(51,10): warning C4101: fun: неиспользованная локальная переменная
+  dop v1.vcxproj -> D:\Лаб ОАП\Лаб 16\dop v1\Debug\dop v1.exe

@@ -1,0 +1,4 @@
+﻿  lab 7 dop 8.cpp
+D:\Лаб ОАП\лаб 7\Lab №7 dop 8\Lab №7 dop 8\lab 7 dop 8.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лаб ОАП\лаб 7\Lab №7 dop 8\Lab №7 dop 8\lab 7 dop 8.cpp(18,15): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+  Lab №7 dop 8.vcxproj -> D:\Лаб ОАП\лаб 7\Lab №7 dop 8\Debug\Lab №7 dop 8.exe
